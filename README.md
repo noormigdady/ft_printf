@@ -4,7 +4,7 @@
 
 # Description
 In C language, printf() function is used to print formatted output to the standard output stdout (which is generally the console screen). and it uses a const char* and variable length arguments as its parameters.
-## Syntax pf ft_printf
+## Syntax of ft_printf
 ```bash
 int ft_printf(const char *, ...);
 ```
